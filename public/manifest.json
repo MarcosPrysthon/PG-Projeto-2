@@ -1,0 +1,25 @@
+{
+  "short_name": "PG - Projeto 2",
+  "name": "Segundo Projeto de PG do semestre 2020.1 - By Heitor Santos e Marcos Prysthon",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192x192.png",
+      "type": "image/png",
+      "sizes": "64x64 32x32 24x24 16x16 192x192 512x512"
+    },
+    {
+      "src": "logo384.png",
+      "type": "image/png",
+      "sizes": "384x384"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
